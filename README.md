@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://podcasts.apple.com/us/podcast/the-global-crypto-podcast/id1512998570">Global Crypto Podcast</a>.<br>
 
-<img src="https://podcastaddict.com/cache/artwork/thumb/2926963"><br>
+<img src="https://globalcrypto.tv/wp-content/uploads/2020/05/Global-Crypto-Website-Logo-RETINA-Colour.png"><br>
 
 <a href="https://globalcrypto.tv/">The Global Crypto Podcast</a> dedicated to getting insights and perspective from the leading thinkers in the blockchain industry. From Andreas Antonopoulos to Anthony Pompliano, Meltem de Mirors to Stacy Herbert, we get the biggest names to give you the most important angles on this world-changing technology, and how you can best be positioned to take advantage of it.<br>
 
